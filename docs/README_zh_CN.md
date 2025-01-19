@@ -1,4 +1,4 @@
-**[中文繁體](docs/README_zh_TW.md) | [中文简体](docs/README_zh_CN.md) | [English](docs/README_en_US.md)**
+**[中文繁體](README_zh_TW.md) | [中文简体](README_zh_CN.md) | [English(US)](README_en_US.md)**
 # InvokeUAC
 通过对注册表增加值，使特定文件的运行无需经过用户账户控制（UAC）的授权。
 
