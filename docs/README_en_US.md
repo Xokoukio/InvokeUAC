@@ -1,4 +1,4 @@
-**[中文繁體](docs/README_zh_TW.md) | [中文简体](docs/README_zh_CN.md) | [English](docs/README_en_US.md)**
+**[中文繁體](README_zh_TW.md) | [中文简体](README_zh_CN.md) | [English(US)](README_en_US.md)**
 # InvokeUAC
 Modify registry values to allow specific files to run without requiring User Account Control (UAC) permissions.
 
